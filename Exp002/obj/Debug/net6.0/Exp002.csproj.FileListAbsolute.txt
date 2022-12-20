@@ -1,0 +1,15 @@
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\bin\Debug\net6.0\Exp002.exe
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\bin\Debug\net6.0\Exp002.deps.json
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\bin\Debug\net6.0\Exp002.runtimeconfig.json
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\bin\Debug\net6.0\Exp002.dll
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\bin\Debug\net6.0\Exp002.pdb
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.csproj.AssemblyReference.cache
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.AssemblyInfoInputs.cache
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.AssemblyInfo.cs
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.dll
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\refint\Exp002.dll
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.pdb
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\Exp002.genruntimeconfig.cache
+D:\GeekBrains\C#  language\Homework09\Seminar09\Exp002\obj\Debug\net6.0\ref\Exp002.dll
